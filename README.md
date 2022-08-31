@@ -4,6 +4,7 @@
 
 microsoft-azure-blob-storage-implementing
 azure-developer-create-azure-app-service-web-apps
+azure-functions-fundamentals
 microsoft-azure-developer-implement-azure-functions
 serverless-funcs
 
