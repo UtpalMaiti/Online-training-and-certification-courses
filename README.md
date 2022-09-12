@@ -11,6 +11,7 @@ serverless-funcs
 # .NET CORE
 
 aspnet-core-fundamentals
+whats-new-asp-dot-net-core-6
 
 # Angular
 
